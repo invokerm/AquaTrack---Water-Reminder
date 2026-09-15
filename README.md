@@ -1,16 +1,34 @@
-# aquatrack
+# 💧 AquaTrack — Water Reminder
 
-A new Flutter project.
+**AquaTrack** is a modern and user-friendly hydration app designed to help you build a healthy daily drinking habit. 💦
 
-## Getting Started
+🚰 **Track Your Water Intake**
+Easily record how much water you drink throughout the day and keep track of your progress toward your daily hydration goal.
 
-This project is a starting point for a Flutter application.
+⏰ **Smart Reminders**
+Get timely reminders to drink water so you can stay hydrated even when you're busy.
 
-A few resources to get you started if this is your first Flutter project:
+📊 **Daily Progress**
+Visualize your hydration progress and see how close you are to reaching your daily goal.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🎯 **Set Your Goal**
+Create a personalized daily water target and stay motivated to complete it.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+📱 **Simple & Clean Design**
+A clean, intuitive interface makes tracking your water intake quick, easy, and enjoyable.
+
+### ✨ Features
+
+* 💧 Daily water intake tracking
+* 🎯 Personalized hydration goals
+* ⏰ Water drinking reminders
+* 📊 Daily progress tracking
+* 📈 Hydration history
+* ➕ Quick water logging
+* 🔔 Reminder notifications
+* 🎨 Clean & modern UI
+* 📱 Simple and easy-to-use experience
+
+### 🌊 Stay Hydrated. Stay Healthy. Stay on Track.
+
+**AquaTrack makes hydration simple — drink, track, and reach your daily goal. 💧🚀**
